@@ -1,0 +1,17 @@
+1. Django Humanize
+2. Django paginator source code and functions
+3. Third party API
+4. CSV and JSON
+5. JS bilan integratsiya
+6. Complex data model that each entities are related to other ones.
+7. ER diagram (Entity relationship model)
+8. Design patterns
+9. SQL special (PostGRESQL)
+10. HTTP, request responses and its verbs. How to send one over to another service
+11. Customize your GitHUB profile
+
+PORTFOLIO IDEAS
+1. Web accessible API
+2. Work a project on OAUTH
+3. Build a web scrapper
+4. Cipher
