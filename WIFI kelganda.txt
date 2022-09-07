@@ -1,6 +1,6 @@
 1. Django Humanize
 2. Django paginator source code and functions
-3. Third party API
+3. Third party API, REST, SOAP, Web sockets
 4. CSV and JSON
 5. JS bilan integratsiya
 6. Complex data model that each entities are related to other ones.
@@ -9,6 +9,9 @@
 9. SQL special (PostGRESQL)
 10. HTTP, request responses and its verbs. How to send one over to another service
 11. Customize your GitHUB profile
+12. model.filter(description__icontains) - nima?
+13. models.py dagi modeldan model.objects dan keyin nima funksiyalar borligini aniqlash
+14. Django Messages toliq
 
 PORTFOLIO IDEAS
 1. Web accessible API
