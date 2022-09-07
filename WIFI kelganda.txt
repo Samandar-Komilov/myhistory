@@ -16,5 +16,5 @@
 PORTFOLIO IDEAS
 1. Web accessible API
 2. Work a project on OAUTH
-3. Build a web scrapper
+3. Build a web scrapper 
 4. Cipher
